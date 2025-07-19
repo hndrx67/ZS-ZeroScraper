@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <img width="200" height="200" alt="ZeroScrapeIMG-logoV1" src="https://github.com/user-attachments/assets/21c42b43-0c95-4165-88ae-2b8e83c09d3a" />
+    <img width="350" height="350" alt="ZeroScrapeIMG-logoV1" src="https://github.com/user-attachments/assets/21c42b43-0c95-4165-88ae-2b8e83c09d3a" />
   </p>
   <br />
   <h1 align="center" style="font-size: 2.5rem; font-weight: bold;">Zero Image Scraper</h1>
